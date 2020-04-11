@@ -1,0 +1,10 @@
+{
+  "name": "tailwindcss-outline",
+  "version": "1.0.0",
+  "description": "TailwindCSS plugin to create outline utility classes.",
+  "main": "index.js",
+  "repository": "https://github.com/jpscaletti/tailwindcss-outline",
+  "author": "Juan-Pablo Scaletti",
+  "license": "MIT",
+  "private": false
+}
