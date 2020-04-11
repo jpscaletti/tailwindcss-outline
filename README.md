@@ -1,33 +1,35 @@
+[![npm](https://img.shields.io/npm/v/tailwindcss-outline.svg?style=for-the-badge)](https://www.npmjs.com/package/tailwindcss-outline)
+[![Downloads](https://img.shields.io/npm/dt/tailwindcss-outline.svg?style=for-the-badge)](https://www.npmjs.com/package/tailwindcss-outline)
 
 # TailwindCSS-Outline
 
 [TailwindCSS](https://tailwindcss.com/) plugin to create outline utility classes, analog to those for border.
 
 
-| Class                               | Properties               |
-|:----------------------------------- |:------------------------ |
-| .outline-2                          | `outline-width: 1px;`    |
-| .outline-2                          | `outline-width: 2px;`    |
-| .outline-4                          | `outline-width: 4px;`    |
-| .outline-8                          | `outline-width: 8px;`    |
-|                                     |                          |
-| .outline-solid                      | `outline-style: solid;`  |
-| .outline-dashed                     | `outline-style: dashed;` |
-| .outline-dotted                     | `outline-style: dotted;` |
-| .outline-double                     | `outline-style: double;` |
-|                                     |                          |
-| .outline-offset-1                   | `outline-offset: 2px;`   |
-| .outline-offset-2                   | `outline-offset: 4px;`   |
-| .outline-offset-3                   | `outline-offset: 8px;`   |
-| .outline-offset-4                   | `outline-offset: 12px;`  |
-| .-outline-offset-1                  | `outline-offset: -2px;`  |
-| .-outline-offset-2                  | `outline-offset: -4px;`  |
-| .-outline-offset-3                  | `outline-offset: -8px;`  |
-| .-outline-offset-4                  | `outline-offset: -12px;` |
-|                                     |                          |
-| .outline-black                      | `outline-color: black;`  |
-| .outline-white                      | `outline-color: white;`  |
-| .outline-**{color}**-**{modifier}** | `outline-color: {value}` |
+| Class                          | Properties               |
+|:------------------------------ |:------------------------ |
+| `.outline-2`                   | `outline-width: 1px;`    |
+| `.outline-2`                   | `outline-width: 2px;`    |
+| `.outline-4`                   | `outline-width: 4px;`    |
+| `.outline-8`                   | `outline-width: 8px;`    |
+|                                |                          |
+| `.outline-solid`               | `outline-style: solid;`  |
+| `.outline-dashed`              | `outline-style: dashed;` |
+| `.outline-dotted`              | `outline-style: dotted;` |
+| `.outline-double`              | `outline-style: double;` |
+|                                |                          |
+| `.outline-offset-1`            | `outline-offset: 2px;`   |
+| `.outline-offset-2`            | `outline-offset: 4px;`   |
+| `.outline-offset-3`            | `outline-offset: 8px;`   |
+| `.outline-offset-4`            | `outline-offset: 12px;`  |
+| `.-outline-offset-1`           | `outline-offset: -2px;`  |
+| `.-outline-offset-2`           | `outline-offset: -4px;`  |
+| `.-outline-offset-3`           | `outline-offset: -8px;`  |
+| `.-outline-offset-4`           | `outline-offset: -12px;` |
+|                                |                          |
+| `.outline-black`               | `outline-color: black;`  |
+| `.outline-white`               | `outline-color: white;`  |
+| `.outline-{color}-{modifier}`  | `outline-color: {value}` |
 
 
 ## Responsive
